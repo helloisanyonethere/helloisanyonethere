@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @helloisanyonethere
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning computer programming in uni
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 he ...
-- ⚡ Fun fact: ...
+- hello im tev
+- im into computers and such
+-  I’m currently a student
+- he/him 19m
+- 
+- 
 
 <!---
-helloisanyonethere/helloisanyonethere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+while True:
+    love = "❤️"
+    print(f"Tev {love} computers!" * 42)  # 42 because it's the answer to life!
+    break  # Love is eternal, but loops shouldn't be
 --->
